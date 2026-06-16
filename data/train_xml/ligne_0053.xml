@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0053.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="6054" HEIGHT="160" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="80">
+            <String CONTENT="pital o otre por el fizo en harruq̃ra q̃ sẽa todas del ospital del Rey. Et cõ esta partiçiõ ⁊ cõ esta postura fecha en esta maña assi com̃o sobredicho es. se parten por pagados el comẽdador ⁊ los ffreyres sobredichos del ospital del Rey. de doña Maria" HPOS="0" VPOS="0" WIDTH="6054" HEIGHT="160"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

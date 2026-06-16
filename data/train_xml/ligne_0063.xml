@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0063.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="6026" HEIGHT="150" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="75">
+            <String CONTENT="en esta maña q̃ todos qͣntos h̃edamiẽtos fferrand royz cortesia auia ala sazõ q̃ fino. en çeladiella de Boldebͥn ⁊ en sos t̃minos. ⁊ en Ouirna. ⁊ en sos t̾minos. ⁊ en  harruq̃ra ⁊ en sos t̾minos. nõbrado miẽtre. tr̃as. uiñas. casas. bolares poblados ⁊ por poblar." HPOS="0" VPOS="0" WIDTH="6026" HEIGHT="150"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

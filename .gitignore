@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+models/*.mlmodel
+models/*.pt
+data/train/
+data/val/
+data/test/raw/
+.DS_Store
+Thumbs.db
+*.log

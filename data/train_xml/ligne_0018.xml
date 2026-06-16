@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0018.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="4799" HEIGHT="178" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="89">
+            <String CONTENT="en q̃ estamos o la uolia dello en dm̃s ssegũd pͦ uiçẽt lo ap̃çiare.⁊ q̃ ffagã traher ala casa de uillahelmero la Ropa ⁊  las otͣ̃s alffaias q̃ ffrey pͦ guiralt rreçi" HPOS="0" VPOS="0" WIDTH="4799" HEIGHT="178"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

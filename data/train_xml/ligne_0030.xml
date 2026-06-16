@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0030.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="3405" HEIGHT="239" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="119">
+            <String CONTENT="de Octubr̃ Era de mill̃ ⁊ treçientos ⁊ treỹta ⁊ tres años. Ioh̃n garçia chancell̃ del inffant̃ don En" HPOS="0" VPOS="0" WIDTH="3405" HEIGHT="239"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

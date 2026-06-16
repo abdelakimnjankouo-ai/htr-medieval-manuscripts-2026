@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0052.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="6030" HEIGHT="145" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="72">
+            <String CONTENT="⁊ de todo uso. ⁊ de toda ayuda de derecho ⁊ de toda exepciõ ⁊ de toda acciõ./ deffenssian ⁊ de toda razõ q̃ se nõ puedan ayudar dent. en nĩgun tiẽpo del mũdo por Razõ desta partiçiõ. Et ꝓmetierõ ⁊ obligarõ assi ⁊ atodos sos bienes. ⁊ atodos los bienes" HPOS="0" VPOS="0" WIDTH="6030" HEIGHT="145"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

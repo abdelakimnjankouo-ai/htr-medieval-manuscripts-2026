@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0054.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="6033" HEIGHT="158" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="79">
+            <String CONTENT="dos. Et don Ioh̃n dm̃guez ⁊ Martĩ royz capellanes.⁊ ffrey alffonsso del fforno. ⁊ ffrey pedro dela puerta. ffrey ioh̃n de sobiado. ffrey Migl̃ antol̃i. ffrey ꝑo sanchez. ffrey pedro de soto palacios. ffrey ꝑo de uilla helmiro. ffrey Rodgo de lesima. ffrey diego de ui" HPOS="0" VPOS="0" WIDTH="6033" HEIGHT="158"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0000.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="4772" HEIGHT="170" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="85">
+            <String CONTENT="q̃  y paresçio. ffecha ⁊ signada por man de domĩgo ffeĩrs escrͥuan publico de Burgos del rregistͦ de pͦ m̃z escͥuan. ffizierõ abenẽçia en esta maña q̃los dich̃s Sanch̃ ꝑez ⁊" HPOS="0" VPOS="0" WIDTH="4772" HEIGHT="170"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

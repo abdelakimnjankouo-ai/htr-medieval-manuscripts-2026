@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0057.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="5995" HEIGHT="153" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="76">
+            <String CONTENT="lo. ⁊ silo fiziessen q̃ pechassen ala otra ꝑte qͥuietos m̃r. delos blãcos nouos alffoñ.a.uii. sueldos ⁊ medio cada m̃io.por pena.⁊ en cabo q̃ uala la partiçiõ assi com̃o sobredicho es. Et otrossi doña Maria royz. ⁊ Iohn gut̃rrez so ffiio.⁊ pedro ferrandez. ⁊" HPOS="0" VPOS="0" WIDTH="5995" HEIGHT="153"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0079.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="5967" HEIGHT="145" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="72">
+            <String CONTENT="sen dla otra ꝑte. qͥuiẽtos.m̃r. delos llac̃os nouos alffonssis a.uii. sueldos ⁊ medio cada m̃r. por pena. ⁊ en cabo q̃ uala la ꝑtiçiõ assi com̃o sobredicho es. Et otrossi doña Maria royz. ⁊ ꝑo ferrandez por ssi ⁊ por su mug̃ doña Maria royz. ⁊ Roy garçia" HPOS="0" VPOS="0" WIDTH="5967" HEIGHT="145"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

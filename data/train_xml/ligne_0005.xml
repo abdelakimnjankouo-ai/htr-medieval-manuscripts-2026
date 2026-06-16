@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0005.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="4799" HEIGHT="153" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="76">
+            <String CONTENT="del dich̃ ospital dela una ꝑte. Et pͦ delas cob̃as. ⁊ Sanch̃ ꝑez tenderos uezinos de Burgos dela otͣ. sob̃r rrazõ a arrendamiẽto q̃ ffue ffech̃ a ffrey pͦ guiralt ffrey" HPOS="0" VPOS="0" WIDTH="4799" HEIGHT="153"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

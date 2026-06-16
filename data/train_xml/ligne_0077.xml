@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0077.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="6007" HEIGHT="153" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="76">
+            <String CONTENT="lo otorguẽ. ⁊ q̃ nõ uayan cõtra ello por ssi nĩ por otre en nĩguna maña por deffaz̃ lo nĩ por mẽguar lo. ⁊ silo fiziessen ellos nĩ otre por elles / q̃ por hassen ala otra parte los qͥuiẽtes. m̃r. sobredichos dela pena. ⁊ en cabo q̃ uala la partiçiõ assi co" HPOS="0" VPOS="0" WIDTH="6007" HEIGHT="153"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

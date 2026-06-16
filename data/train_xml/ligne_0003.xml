@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0003.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="4789" HEIGHT="189" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="94">
+            <String CONTENT="pͦ guiralt ⁊ dela fiaduria ⁊ debdura q̃ sobr̃l ffizerõ q̃ daqͥ adelant̃ nõ ssean tenidos en esta rrazõ nĩ com̃o debdõrs nĩ com̃o fiadors Et ffizierõ pl̃yto estos ffrey" HPOS="0" VPOS="0" WIDTH="4789" HEIGHT="189"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

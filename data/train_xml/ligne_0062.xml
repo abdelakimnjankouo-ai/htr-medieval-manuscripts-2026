@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0062.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="5938" HEIGHT="143" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="71">
+            <String CONTENT="por ssi. todos tres en uno. ⁊ por Razõ ⁊ por nob̃ie de fferrand gut̃rrez ⁊ de su mug̃ doña Marina royz q̃ nõ estan p̃sentes del̃ate. se partẽ por pagados del Comendador ⁊ delos ffreyres del ospital del Rey sobredichos./ de todas qͣntas demãdas auiẽ" HPOS="0" VPOS="0" WIDTH="5938" HEIGHT="143"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

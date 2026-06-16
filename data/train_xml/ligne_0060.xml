@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0060.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="6003" HEIGHT="152" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="76">
+            <String CONTENT="desta partiçiõ.⁊ ꝓmetierõ ⁊ obligarõ assi.⁊ atodos sos bienes mobles eh̃erdades. de estar ⁊ ꝯplir ⁊ q̃tar ⁊ auer por firme esta partiçiõ ⁊ todas estas cosas sobredichas. ⁊ de nõ uenir cõtra ello por ssi nĩ por otro en nĩguna maña por deffaz̃ lo nĩ por mẽguar" HPOS="0" VPOS="0" WIDTH="6003" HEIGHT="152"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0017.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="4791" HEIGHT="175" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="87">
+            <String CONTENT="por ssi ⁊ por todo de atener ⁊ copl̃u esta abenẽçia ssegũd dich̃ es de suso ⁊ todo qͣ̃nto en esta carta dize sso pena de tres mill̃. mĩ dela mõn nueua ax. ds̃ el mĩ q̃ pech̃e" HPOS="0" VPOS="0" WIDTH="4791" HEIGHT="175"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

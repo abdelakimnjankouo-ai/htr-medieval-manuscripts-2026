@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0050.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="6046" HEIGHT="140" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="70">
+            <String CONTENT="fuerõ de dõ fferrand royz. assi q̃ ellos nĩ otre por ellos nõ les an nĩguna cosa q̃ dem̃adar. por nĩguna razõ q̃ pueda seer nĩ por carta nĩ por pͥuillegio ganado nĩ por ganar. ⁊ qͥtan se de todo d̃echo .⁊ de todo ffuero esͥcpto õ nõ esͥcpto. ⁊ de toda costumb̃r" HPOS="0" VPOS="0" WIDTH="6046" HEIGHT="140"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

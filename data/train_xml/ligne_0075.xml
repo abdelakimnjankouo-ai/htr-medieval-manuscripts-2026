@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>C:/Users/njank/Desktop/htr-medieval-manuscripts-2026/data/train/ligne_0075.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="6028" HEIGHT="169" ID="page1">
+      <PrintSpace>
+        <TextBlock ID="tb1">
+          <TextLine ID="tl1" BASELINE="84">
+            <String CONTENT="yo Pedro ferrandez pusiemos otrossi nr̃os seellos en esta carta en testimoĩo. ffecha fue esta carta en Cast̃lla. uiernes.xxii.dias del Mes de iulio. Esta.mͣ.cccͣ.xuiͣ. desto son testigos q̃ lo uierõ ⁊ lo oyeron don Gar" HPOS="0" VPOS="0" WIDTH="6028" HEIGHT="169"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
