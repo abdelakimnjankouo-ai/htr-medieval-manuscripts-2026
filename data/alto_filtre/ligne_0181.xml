@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0181.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1445" HEIGHT="86" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1441" HEIGHT="82">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1441" HEIGHT="82">
+          <TextLine ID="tl1" BASELINE="2,43 1443,43" HPOS="2" VPOS="2" WIDTH="1441" HEIGHT="82">
+            <Shape><Polygon POINTS="2,2 1443,2 1443,84 2,84"/></Shape>
+            <String ID="s1" CONTENT="humildosa mĩetre ante nos todos: obispos de dios.⁊ rogonos.⁊ pidiõnos" HPOS="2" VPOS="2" WIDTH="1441" HEIGHT="82"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

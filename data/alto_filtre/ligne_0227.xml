@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0227.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1483" HEIGHT="87" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1479" HEIGHT="83">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1479" HEIGHT="83">
+          <TextLine ID="tl1" BASELINE="2,43 1481,43" HPOS="2" VPOS="2" WIDTH="1479" HEIGHT="83">
+            <Shape><Polygon POINTS="2,2 1481,2 1481,85 2,85"/></Shape>
+            <String ID="s1" CONTENT="nar nin auer muchos pueblos nin grand auer. sinõ por q̃ furõ exaltados" HPOS="2" VPOS="2" WIDTH="1479" HEIGHT="83"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

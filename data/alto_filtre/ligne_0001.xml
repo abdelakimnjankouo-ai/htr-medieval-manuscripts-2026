@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0001.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="4755" HEIGHT="226" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="4751" HEIGHT="222">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="4751" HEIGHT="222">
+          <TextLine ID="tl1" BASELINE="2,113 4753,113" HPOS="2" VPOS="2" WIDTH="4751" HEIGHT="222">
+            <Shape><Polygon POINTS="2,2 4753,2 4753,224 2,224"/></Shape>
+            <String ID="s1" CONTENT="Toledo. Ioh̃n gãnz rraçionero dela Egl̃ia de Burgos. Aĩ Yuãns uezino de Burgos dela collaçiõ de sãt :icho las pͦ ꝑoz de ssassimõ pusq̃l sanchez" HPOS="2" VPOS="2" WIDTH="4751" HEIGHT="222"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

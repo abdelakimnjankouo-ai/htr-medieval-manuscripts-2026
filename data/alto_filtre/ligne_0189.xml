@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0189.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1379" HEIGHT="81" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1375" HEIGHT="77">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1375" HEIGHT="77">
+          <TextLine ID="tl1" BASELINE="2,40 1377,40" HPOS="2" VPOS="2" WIDTH="1375" HEIGHT="77">
+            <Shape><Polygon POINTS="2,2 1377,2 1377,79 2,79"/></Shape>
+            <String ID="s1" CONTENT="on cuidado del amor de xp̃o. ⁊ congrant diligentia de donsisnando." HPOS="2" VPOS="2" WIDTH="1375" HEIGHT="77"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

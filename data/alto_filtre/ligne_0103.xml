@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0103.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1425" HEIGHT="85" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1421" HEIGHT="81">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1421" HEIGHT="81">
+          <TextLine ID="tl1" BASELINE="2,42 1423,42" HPOS="2" VPOS="2" WIDTH="1421" HEIGHT="81">
+            <Shape><Polygon POINTS="2,2 1423,2 1423,83 2,83"/></Shape>
+            <String ID="s1" CONTENT="uoles.⁊ delas uĩnas.⁊ delos ortos.⁊ delos panes. Delos dãnos q̃ fazem" HPOS="2" VPOS="2" WIDTH="1421" HEIGHT="81"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

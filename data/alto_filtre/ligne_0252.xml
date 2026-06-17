@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0252.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1454" HEIGHT="89" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1450" HEIGHT="85">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1450" HEIGHT="85">
+          <TextLine ID="tl1" BASELINE="2,44 1452,44" HPOS="2" VPOS="2" WIDTH="1450" HEIGHT="85">
+            <Shape><Polygon POINTS="2,2 1452,2 1452,87 2,87"/></Shape>
+            <String ID="s1" CONTENT="sia q̃ son maores se ellos ñ qͥeren acorrer alos pueblos q̃les son dados." HPOS="2" VPOS="2" WIDTH="1450" HEIGHT="85"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

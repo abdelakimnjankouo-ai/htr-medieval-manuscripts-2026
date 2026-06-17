@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0115.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1195" HEIGHT="116" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1191" HEIGHT="112">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1191" HEIGHT="112">
+          <TextLine ID="tl1" BASELINE="2,58 1193,58" HPOS="2" VPOS="2" WIDTH="1191" HEIGHT="112">
+            <Shape><Polygon POINTS="2,2 1193,2 1193,114 2,114"/></Shape>
+            <String ID="s1" CONTENT="Que titol delas cartaᷤ legales enel pͥm̾o libro" HPOS="2" VPOS="2" WIDTH="1191" HEIGHT="112"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

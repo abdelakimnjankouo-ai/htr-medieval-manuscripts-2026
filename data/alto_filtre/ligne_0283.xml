@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0283.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="239" HEIGHT="81" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="235" HEIGHT="77">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="235" HEIGHT="77">
+          <TextLine ID="tl1" BASELINE="2,40 237,40" HPOS="2" VPOS="2" WIDTH="235" HEIGHT="77">
+            <Shape><Polygon POINTS="2,2 237,2 237,79 2,79"/></Shape>
+            <String ID="s1" CONTENT="Dela elec-" HPOS="2" VPOS="2" WIDTH="235" HEIGHT="77"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

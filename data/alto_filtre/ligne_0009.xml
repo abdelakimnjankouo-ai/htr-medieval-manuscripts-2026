@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0009.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="4831" HEIGHT="186" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="4827" HEIGHT="182">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="4827" HEIGHT="182">
+          <TextLine ID="tl1" BASELINE="2,93 4829,93" HPOS="2" VPOS="2" WIDTH="4827" HEIGHT="182">
+            <Shape><Polygon POINTS="2,2 4829,2 4829,184 2,184"/></Shape>
+            <String ID="s1" CONTENT="añt mi Masan gͥẽns escͥuãn publico de Burgos ffrey domĩgo alffoñ ⁊ ffrey domĩgo es⟦cr̃ua⟧ magdomo. ⁊ ffrey Esteuã ꝑoz ꝓcͥador del ospital del Rey. por ssi ⁊ por todos los otͦs ffrey" HPOS="2" VPOS="2" WIDTH="4827" HEIGHT="182"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

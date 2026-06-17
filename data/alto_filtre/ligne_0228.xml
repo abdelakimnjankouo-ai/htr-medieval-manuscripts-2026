@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0228.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1474" HEIGHT="93" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1470" HEIGHT="89">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1470" HEIGHT="89">
+          <TextLine ID="tl1" BASELINE="2,46 1472,46" HPOS="2" VPOS="2" WIDTH="1470" HEIGHT="89">
+            <Shape><Polygon POINTS="2,2 1472,2 1472,91 2,91"/></Shape>
+            <String ID="s1" CONTENT="dado del pͥncipe. edel obedecer. entieude alas uezes. del fazer seruicio de" HPOS="2" VPOS="2" WIDTH="1470" HEIGHT="89"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0256.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1464" HEIGHT="80" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1460" HEIGHT="76">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1460" HEIGHT="76">
+          <TextLine ID="tl1" BASELINE="2,40 1462,40" HPOS="2" VPOS="2" WIDTH="1460" HEIGHT="76">
+            <Shape><Polygon POINTS="2,2 1462,2 1462,78 2,78"/></Shape>
+            <String ID="s1" CONTENT="pena. Estaley fu fecha enel octauo ꝯceyo de toledo. Del degredo" HPOS="2" VPOS="2" WIDTH="1460" HEIGHT="76"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

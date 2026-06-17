@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0042.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="685" HEIGHT="207" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="681" HEIGHT="203">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="681" HEIGHT="203">
+          <TextLine ID="tl1" BASELINE="2,103 683,103" HPOS="2" VPOS="2" WIDTH="681" HEIGHT="203">
+            <Shape><Polygon POINTS="2,2 683,2 683,205 2,205"/></Shape>
+            <String ID="s1" CONTENT="20 octobre 1295" HPOS="2" VPOS="2" WIDTH="681" HEIGHT="203"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

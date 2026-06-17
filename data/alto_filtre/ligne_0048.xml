@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0048.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="3271" HEIGHT="209" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="3267" HEIGHT="205">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="3267" HEIGHT="205">
+          <TextLine ID="tl1" BASELINE="2,104 3269,104" HPOS="2" VPOS="2" WIDTH="3267" HEIGHT="205">
+            <Shape><Polygon POINTS="2,2 3269,2 3269,207 2,207"/></Shape>
+            <String ID="s1" CONTENT="ui una carta del Rey don Sanch̃ miõ padre q̃ dios perdone ffecha enesta guissa. Sepã  qͣ̃ntos esta" HPOS="2" VPOS="2" WIDTH="3267" HEIGHT="205"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

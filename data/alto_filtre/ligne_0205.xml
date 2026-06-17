@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0205.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1473" HEIGHT="91" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1469" HEIGHT="87">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1469" HEIGHT="87">
+          <TextLine ID="tl1" BASELINE="2,45 1471,45" HPOS="2" VPOS="2" WIDTH="1469" HEIGHT="87">
+            <Shape><Polygon POINTS="2,2 1471,2 1471,89 2,89"/></Shape>
+            <String ID="s1" CONTENT="e aum fazien otͣ cosa mas graue. q̃ aquelo q̃ ganauam despues q̃ eran ⟦⟧" HPOS="2" VPOS="2" WIDTH="1469" HEIGHT="87"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

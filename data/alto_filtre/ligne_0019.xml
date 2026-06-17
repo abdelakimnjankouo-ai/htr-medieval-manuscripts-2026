@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0019.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="4779" HEIGHT="182" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="4775" HEIGHT="178">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="4775" HEIGHT="178">
+          <TextLine ID="tl1" BASELINE="2,91 4777,91" HPOS="2" VPOS="2" WIDTH="4775" HEIGHT="178">
+            <Shape><Polygon POINTS="2,2 4777,2 4777,180 2,180"/></Shape>
+            <String ID="s1" CONTENT="las otͣ̃s postaͥs q̃ ffuerõ puestas en aq̃l arrendamiẽto ⁊ dexarõ libre ⁊ qͥta. la dicha casa. cõ sus h̃edades ⁊ ꝑtenẽçias al dich̃ ospital ⁊ q̃ el ospital q̃ use ⁊ ffaga della daqͥ" HPOS="2" VPOS="2" WIDTH="4775" HEIGHT="178"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

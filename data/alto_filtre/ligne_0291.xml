@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0291.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1443" HEIGHT="91" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1439" HEIGHT="87">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1439" HEIGHT="87">
+          <TextLine ID="tl1" BASELINE="2,45 1441,45" HPOS="2" VPOS="2" WIDTH="1439" HEIGHT="87">
+            <Shape><Polygon POINTS="2,2 1441,2 1441,89 2,89"/></Shape>
+            <String ID="s1" CONTENT="derecho: ñ seras rey. Onde el rey deue auer duas u̾tudes ensi. maor miẽtͤ" HPOS="2" VPOS="2" WIDTH="1439" HEIGHT="87"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0034.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="3276" HEIGHT="220" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="3272" HEIGHT="216">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="3272" HEIGHT="216">
+          <TextLine ID="tl1" BASELINE="2,110 3274,110" HPOS="2" VPOS="2" WIDTH="3272" HEIGHT="216">
+            <Shape><Polygon POINTS="2,2 3274,2 3274,218 2,218"/></Shape>
+            <String ID="s1" CONTENT="fferrãt ꝑs dran de Seuill a qͥ yo la oue dada por su uida. Et mando ⁊ de ffiendo ffirme mieñt q̃ nĩguno" HPOS="2" VPOS="2" WIDTH="3272" HEIGHT="216"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

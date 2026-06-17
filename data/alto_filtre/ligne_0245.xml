@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0245.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1447" HEIGHT="90" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1443" HEIGHT="86">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1443" HEIGHT="86">
+          <TextLine ID="tl1" BASELINE="2,45 1445,45" HPOS="2" VPOS="2" WIDTH="1443" HEIGHT="86">
+            <Shape><Polygon POINTS="2,2 1445,2 1445,88 2,88"/></Shape>
+            <String ID="s1" CONTENT="dos los sennorios fussem muy graues. elos sennores ñ gou̾nasẽ elos" HPOS="2" VPOS="2" WIDTH="1443" HEIGHT="86"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
