@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0144.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1410" HEIGHT="69" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1406" HEIGHT="65">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1406" HEIGHT="65">
+          <TextLine ID="tl1" BASELINE="2,34 1408,34" HPOS="2" VPOS="2" WIDTH="1406" HEIGHT="65">
+            <Shape><Polygon POINTS="2,2 1408,2 1408,67 2,67"/></Shape>
+            <String ID="s1" CONTENT="cemiento delos enemigos.ca dela mesura delos principes naze el or-" HPOS="2" VPOS="2" WIDTH="1406" HEIGHT="65"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

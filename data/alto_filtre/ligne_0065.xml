@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0065.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="6006" HEIGHT="151" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="6002" HEIGHT="147">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="6002" HEIGHT="147">
+          <TextLine ID="tl1" BASELINE="2,75 6004,75" HPOS="2" VPOS="2" WIDTH="6002" HEIGHT="147">
+            <Shape><Polygon POINTS="2,2 6004,2 6004,149 2,149"/></Shape>
+            <String ID="s1" CONTENT="cha ⁊ plazenos. ⁊ en testimoniõ mãdamos poner en esta carta nr̃os seellos pendiẽtes. E otrossi amas las ꝑtes rogarõ adon Garçia gut̃rrez arçediano de Treuiño q̃ pusiesse so seello en esta carta. Et yo Garçia gut̃rrez arçediano de Tre" HPOS="2" VPOS="2" WIDTH="6002" HEIGHT="147"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

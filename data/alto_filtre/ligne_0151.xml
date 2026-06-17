@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0151.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1405" HEIGHT="79" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1401" HEIGHT="75">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1401" HEIGHT="75">
+          <TextLine ID="tl1" BASELINE="2,39 1403,39" HPOS="2" VPOS="2" WIDTH="1401" HEIGHT="75">
+            <Shape><Polygon POINTS="2,2 1403,2 1403,77 2,77"/></Shape>
+            <String ID="s1" CONTENT="zio dotras cosas. mas delantre los sac̾dotes d̾ dios.⁊ ꝯso ꝯseyo ⁊ ꝯconseyo" HPOS="2" VPOS="2" WIDTH="1401" HEIGHT="75"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

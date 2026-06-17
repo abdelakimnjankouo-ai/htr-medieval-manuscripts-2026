@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0159.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1114" HEIGHT="77" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1110" HEIGHT="73">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1110" HEIGHT="73">
+          <TextLine ID="tl1" BASELINE="2,38 1112,38" HPOS="2" VPOS="2" WIDTH="1110" HEIGHT="73">
+            <Shape><Polygon POINTS="2,2 1112,2 1112,75 2,75"/></Shape>
+            <String ID="s1" CONTENT="Del amonestamiento delos obispos contrarios prin" HPOS="2" VPOS="2" WIDTH="1110" HEIGHT="73"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

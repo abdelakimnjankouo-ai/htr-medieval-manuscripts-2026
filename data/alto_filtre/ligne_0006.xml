@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0006.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="4801" HEIGHT="196" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="4797" HEIGHT="192">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="4797" HEIGHT="192">
+          <TextLine ID="tl1" BASELINE="2,98 4799,98" HPOS="2" VPOS="2" WIDTH="4797" HEIGHT="192">
+            <Shape><Polygon POINTS="2,2 4799,2 4799,194 2,194"/></Shape>
+            <String ID="s1" CONTENT="ala inffañt silo assi nõ cuplierẽ ⁊ la pena pagada o nõ pagada q̃ sten por esta abenẽçia sob̃rdicha ⁊ ql̃a cũplan. Otͦssi los dich̃s ffray domĩgo alffoñ ⁊ ffrey domĩgo" HPOS="2" VPOS="2" WIDTH="4797" HEIGHT="192"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

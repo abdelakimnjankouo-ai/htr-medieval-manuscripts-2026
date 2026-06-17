@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0157.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1396" HEIGHT="74" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1392" HEIGHT="70">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1392" HEIGHT="70">
+          <TextLine ID="tl1" BASELINE="2,37 1394,37" HPOS="2" VPOS="2" WIDTH="1392" HEIGHT="70">
+            <Shape><Polygon POINTS="2,2 1394,2 1394,72 2,72"/></Shape>
+            <String ID="s1" CONTENT="conmesura ⁊ ꝯ atenplancia. mas fuertes seran: en destruir los ene-" HPOS="2" VPOS="2" WIDTH="1392" HEIGHT="70"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

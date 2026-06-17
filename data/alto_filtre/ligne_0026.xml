@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0026.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="3397" HEIGHT="227" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="3393" HEIGHT="223">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="3393" HEIGHT="223">
+          <TextLine ID="tl1" BASELINE="2,113 3395,113" HPOS="2" VPOS="2" WIDTH="3393" HEIGHT="223">
+            <Shape><Polygon POINTS="2,2 3395,2 3395,225 2,225"/></Shape>
+            <String ID="s1" CONTENT="çed q̃ yo ql̃es mandasse conffirmar ⁊ guardar esta carta sobredicha. Segũd q̃ ella diçe. Et yo cõ" HPOS="2" VPOS="2" WIDTH="3393" HEIGHT="223"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

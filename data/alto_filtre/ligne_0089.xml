@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0089.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="659" HEIGHT="65" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="655" HEIGHT="61">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="655" HEIGHT="61">
+          <TextLine ID="tl1" BASELINE="2,32 657,32" HPOS="2" VPOS="2" WIDTH="655" HEIGHT="61">
+            <Shape><Polygon POINTS="2,2 657,2 657,63 2,63"/></Shape>
+            <String ID="s1" CONTENT="bro titol dela nascẽcia delos ca" HPOS="2" VPOS="2" WIDTH="655" HEIGHT="61"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

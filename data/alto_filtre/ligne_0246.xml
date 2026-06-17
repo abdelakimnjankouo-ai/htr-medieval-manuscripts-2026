@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0246.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1445" HEIGHT="96" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1441" HEIGHT="92">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1441" HEIGHT="92">
+          <TextLine ID="tl1" BASELINE="2,48 1443,48" HPOS="2" VPOS="2" WIDTH="1441" HEIGHT="92">
+            <Shape><Polygon POINTS="2,2 1443,2 1443,94 2,94"/></Shape>
+            <String ID="s1" CONTENT="blos. ⁊ d̾ sobre si: muy mas graue culpa sera enlos prelados dela egli-" HPOS="2" VPOS="2" WIDTH="1441" HEIGHT="92"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

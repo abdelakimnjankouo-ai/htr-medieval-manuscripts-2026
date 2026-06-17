@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0120.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="539" HEIGHT="83" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="535" HEIGHT="79">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="535" HEIGHT="79">
+          <TextLine ID="tl1" BASELINE="2,41 537,41" HPOS="2" VPOS="2" WIDTH="535" HEIGHT="79">
+            <Shape><Polygon POINTS="2,2 537,2 537,81 2,81"/></Shape>
+            <String ID="s1" CONTENT="elos grados. Delos ereda" HPOS="2" VPOS="2" WIDTH="535" HEIGHT="79"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

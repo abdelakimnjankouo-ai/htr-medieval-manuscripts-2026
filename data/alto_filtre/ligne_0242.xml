@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0242.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1434" HEIGHT="79" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1430" HEIGHT="75">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1430" HEIGHT="75">
+          <TextLine ID="tl1" BASELINE="2,39 1432,39" HPOS="2" VPOS="2" WIDTH="1430" HEIGHT="75">
+            <Shape><Polygon POINTS="2,2 1432,2 1432,77 2,77"/></Shape>
+            <String ID="s1" CONTENT="dio d̾ su coita: por esta nr̃a ley. Onde como enllos tiempos q̃ son pasa-" HPOS="2" VPOS="2" WIDTH="1430" HEIGHT="75"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

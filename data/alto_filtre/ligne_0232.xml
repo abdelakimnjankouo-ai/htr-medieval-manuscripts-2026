@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation><fileName>/content/htr-medieval-manuscripts-2026/data/train_filtre/ligne_0232.jpg</fileName></sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page WIDTH="1470" HEIGHT="86" ID="page1">
+      <PrintSpace HPOS="2" VPOS="2" WIDTH="1466" HEIGHT="82">
+        <TextBlock ID="tb1" HPOS="2" VPOS="2" WIDTH="1466" HEIGHT="82">
+          <TextLine ID="tl1" BASELINE="2,43 1468,43" HPOS="2" VPOS="2" WIDTH="1466" HEIGHT="82">
+            <Shape><Polygon POINTS="2,2 1468,2 1468,84 2,84"/></Shape>
+            <String ID="s1" CONTENT="el pueblo de perdida. el so defendemiẽto. torna en destruimiẽto d⟦⟧" HPOS="2" VPOS="2" WIDTH="1466" HEIGHT="82"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
